@@ -1,7 +1,7 @@
 # Engineering Manager Resources 
  A list of engineering leadership resource links. 
  
- Follow [Ryan Burgess on Twitter](http://twitter.com/burgessdryan)
+ Follow [Bansi on LinkedIn]((https://www.linkedin.com/in/bansihaudakari/))
 
 ## Mentoring
  * [Plato](https://www.platohq.com/)
